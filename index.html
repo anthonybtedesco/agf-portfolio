@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AGFarms LLC - Venture Studio & Development Society</title>
+  <meta name="description" content="AGFarms LLC is a venture studio / society of developers bringing interesting projects off the ground from web2, web3, to mobile applications.">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+</head>
+<body>
+  <header>
+    <div class="header-particles">
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+    </div>
+    <div class="container">
+      <div class="theme-toggle">
+        <i class="fas fa-moon"></i>
+        <label>
+          <input type="checkbox" id="dark-mode-toggle">
+          <span class="slider"></span>
+        </label>
+      </div>
+      <h1>AGFarms LLC</h1>
+      <p class="tagline">Venture Studio & Development Society</p>
+      <div class="header-links">
+        <a href="https://github.com/AGFarms" target="_blank" class="github-link">
+          <i class="fab fa-github"></i> View on GitHub
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="intro">
+      <h2>Our Projects</h2>
+      <p>At AGFarms, we specialize in bringing innovative web applications to life. Our portfolio showcases our expertise in web development with interactive previews of our projects. Explore our work through live demos below.</p>
+      <div class="projects-loader"></div>
+    </section>
+
+    <section class="projects">
+      <div class="projects-grid">
+        <!-- Projects will be dynamically loaded here from projects.json -->
+        <div class="project-card loading">
+          <p>Loading projects...</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal">
+    <span class="close-modal">&times;</span>
+    <div class="modal-content">
+      <h3 class="modal-project-title">Project Name</h3>
+      <div class="modal-iframe-container">
+        <iframe class="modal-iframe" src="about:blank" title="Project Preview" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <div class="footer-links">
+        <a href="#" aria-label="GitHub"><i class="fab fa-github"></i></a>
+        <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+      </div>
+      <p>Contact us: <a href="mailto:team@agfarms.dev">team@agfarms.dev</a></p>
+      <p>&copy; <span id="current-year">2025</span> AGFarms LLC. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    // Update current year in footer
+    document.getElementById('current-year').textContent = new Date().getFullYear();
+  </script>
+  <script src="script.js"></script>
+</body>
+</html> 

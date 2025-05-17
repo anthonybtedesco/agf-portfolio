@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Roley",
+    "description": "Automatic Applications For Actors",
+    "url": "https://roley.me",
+    "image": "images/placeholder.svg",
+    "technologies": ["React", "Node.js", "MongoDB", "AWS"]
+  },
+  {
+    "name": "Derby.Fish",
+    "description": "Sport Fishing Competitions",
+    "url": "https://derby.fish",
+    "image": "images/placeholder.svg",
+    "technologies": ["Vue.js", "Firebase", "Stripe", "Google Maps API"]
+  },
+  {
+    "name": "HappySwims",
+    "description": "Swim Lesson Management",
+    "url": "https://happyswims.life",
+    "image": "images/placeholder.svg",
+    "technologies": ["React", "Express", "PostgreSQL", "AWS"]
+  },
+  {
+    "name": "Tasklapp",
+    "description": "Transform ordinary task management into a competitive experience",
+    "url": "https://taskl.app",
+    "image": "images/placeholder.svg",
+    "technologies": ["React Native", "GraphQL", "MongoDB", "Expo"]
+  },
+  {
+    "name": "Fillitin.ink",
+    "description": "Easy, Customizable Form Creator and Response Management",
+    "url": "https://fillitin.ink",
+    "image": "images/placeholder.svg",
+    "technologies": ["Angular", "Node.js", "MongoDB", "Azure"]
+  },
+  {
+    "name": "Interactive Patagonia",
+    "description": "A local marketplace to experience Patagonia for all its adventurous wonders",
+    "url": "https://interactivepatagonia.com",
+    "image": "images/placeholder.svg",
+    "technologies": ["Vue.js", "Laravel", "MySQL", "Cloudflare"]
+  },
+  {
+    "name": "Patagonia Moto Rentals",
+    "description": "Rental Management for a rental company based in Patagonia",
+    "url": "https://patagoniamotorentals.com",
+    "image": "images/placeholder.svg",
+    "technologies": ["Next.js", "Express", "PostgreSQL", "Stripe"]
+  },
+  {
+    "name": "LetStuffGo",
+    "description": "Declutter, Simplify, Live Free",
+    "url": "https://letstuffgo.store",
+    "image": "images/placeholder.svg",
+    "technologies": ["React", "Django", "PostgreSQL", "AWS S3"]
+  },
+  {
+    "name": "NoMeetShop",
+    "description": "Create anonymous geo-tagged drops",
+    "url": "https://nomeet.shop",
+    "image": "images/placeholder.svg",
+    "technologies": ["React Native", "Firebase", "Google Maps API", "Stripe"]
+  },
+  {
+    "name": "Rafael Yaluff",
+    "description": "An artist's portfolio",
+    "url": "https://rafaelyaluff.com",
+    "image": "images/placeholder.svg",
+    "technologies": ["Gatsby", "GraphQL", "Netlify CMS", "Cloudinary"]
+  },
+  {
+    "name": "TickerTock",
+    "description": "Realtime financial data",
+    "url": "https://tickertock.xyz",
+    "image": "images/placeholder.svg",
+    "technologies": ["Next.js", "Socket.io", "Redis", "Vercel"]
+  },
+  {
+    "name": "EthicalFish",
+    "description": "Winning Hackathon Project for EthDenver 2025",
+    "url": "https://ethical.fish",
+    "image": "images/placeholder.svg",
+    "technologies": ["React", "Solidity", "Web3.js", "IPFS"]
+  },
+  {
+    "name": "Bucket Foundation",
+    "description": "Hackathon Project for Eth San Francisco 2024",
+    "url": "https://bucket.foundation",
+    "image": "images/placeholder.svg",
+    "technologies": ["Vue.js", "Solidity", "Hardhat", "The Graph"]
+  },
+  {
+    "name": "PrimGames",
+    "description": "Simple math games",
+    "url": "https://prim.games",
+    "image": "images/placeholder.svg",
+    "technologies": ["Svelte", "Express", "MongoDB", "PWA"]
+  },
+  {
+    "name": "ElementCoin",
+    "description": "Conceptual Idea for tracking concessions with cryptocurrency",
+    "url": "https://elementcoin.xyz",
+    "image": "images/placeholder.svg",
+    "technologies": ["React", "Solidity", "Ethers.js", "IPFS"]
+  }
+] 
