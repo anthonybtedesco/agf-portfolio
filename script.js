@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', function() {
   existingCards.forEach(card => {
     card.style.opacity = '1';
   });
-  
   loadProjects();
   setupModal();
   initializeDarkModeToggle();
@@ -203,6 +202,7 @@ function createProjectCard(project) {
     img.className = 'project-image';
     img.src = project.image;
     img.alt = project.name;
+    console.log(project.image);
     img.onerror = function() {
       // If image fails to load, show the placeholder
       this.style.display = 'none';
