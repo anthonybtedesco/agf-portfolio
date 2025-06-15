@@ -4,104 +4,118 @@
     "description": "Automatic Applications For Actors",
     "url": "https://roley.me",
     "image": "images/roley.png",
-    "technologies": ["React", "Node.js", "PostgreSQL", "Kubernetes", "Webscraping"]
+    "technologies": []
   },
   {
     "name": "Derby.Fish",
     "description": "Sport Fishing Competitions",
     "url": "https://derby.fish",
     "image": "images/derby.png",
-    "technologies": ["Expo", "Rust", "Stripe"]
-  },
-  {
-    "name": "HappySwims",
-    "description": "Swim Lesson Management",
-    "url": "https://happyswims.life",
-    "image": "images/happyswims.png",
-    "technologies": ["React", "Express", "PostgreSQL", "AWS"]
+    "technologies": []
   },
   {
     "name": "Tasklapp",
     "description": "Transform ordinary task management into a competitive experience",
     "url": "https://taskl.app",
     "image": "images/tasklapp.png",
-    "technologies": ["React Native", "GraphQL", "MongoDB", "Expo"]
+    "technologies": []
   },
   {
-    "name": "Fillitin.ink",
-    "description": "Easy, Customizable Form Creator and Response Management",
-    "url": "https://fillitin.ink",
-    "image": "images/fillitin.png",
-    "technologies": ["Angular", "Node.js", "MongoDB", "Azure"]
+    "name": "Game Trust",
+    "description": "Web3 Infrastructure for Skill-Based Competitions",
+    "url": "https://gametrust.xyz",
+    "image": "images/gametrust.png",
+    "technologies": []
+  },
+  {
+    "name": "Endcrypt",
+    "description": "Private, secure, and anonymous messaging",
+    "url": "https://endcrypt.me",
+    "image": "images/endcrypt.png",
+    "technologies": []
   },
   {
     "name": "Interactive Patagonia",
     "description": "A local marketplace to experience Patagonia for all its adventurous wonders",
     "url": "https://interactivepatagonia.com",
     "image": "images/interactivepatagonia.png",
-    "technologies": ["Vue.js", "Laravel", "MySQL", "Cloudflare"]
+    "technologies": []
   },
   {
     "name": "Patagonia Moto Rentals",
     "description": "Rental Management for a rental company based in Patagonia",
     "url": "https://patagoniamotorentals.com",
     "image": "images/patagoniamotorentals.png",
-    "technologies": ["Next.js", "Express", "PostgreSQL", "Stripe"]
+    "technologies": []
+  },
+  {
+    "name": "HappySwims",
+    "description": "Swim Lesson Management",
+    "url": "https://happyswims.life",
+    "image": "images/happyswims.png",
+    "technologies": []
+  },
+  {
+    "name": "Fillitin.ink",
+    "description": "Easy, Customizable Form Creator and Response Management",
+    "url": "https://fillitin.ink",
+    "image": "images/fillitin.png",
+    "technologies": []
   },
   {
     "name": "LetStuffGo",
     "description": "Declutter, Simplify, Live Free",
     "url": "https://letstuffgo.store",
     "image": "images/letstuffgo.png",
-    "technologies": ["React", "Django", "PostgreSQL", "AWS S3"]
+    "technologies": []
   },
   {
     "name": "NoMeetShop",
     "description": "Create anonymous geo-tagged drops",
     "url": "https://nomeet.shop",
     "image": "images/nomeetshop.png",
-    "technologies": ["React Native", "Firebase", "Google Maps API", "Stripe"]
+    "technologies": []
   },
   {
     "name": "Rafael Yaluff",
     "description": "An artist's portfolio",
     "url": "https://rafaelyaluff.com",
     "image": "images/rafaelyaluff.png",
-    "technologies": ["Gatsby", "GraphQL", "Netlify CMS", "Cloudinary"]
+    "technologies": []
   },
   {
     "name": "TickerTock",
     "description": "Realtime financial data",
     "url": "https://tickertock.xyz",
     "image": "images/tickertock.png",
-    "technologies": ["Next.js", "Socket.io", "Redis", "Vercel"]
+    "technologies": []
   },
   {
     "name": "EthicalFish",
     "description": "Winning Hackathon Project for EthDenver 2025",
     "url": "https://ethical.fish",
     "image": "images/ethicalfish.png",
-    "technologies": ["React", "Solidity", "Web3.js", "IPFS"]
+    "technologies": []
   },
   {
     "name": "Bucket Foundation",
     "description": "Hackathon Project for Eth San Francisco 2024",
     "url": "https://bucket.foundation",
     "image": "images/bucketfoundation.png",
-    "technologies": ["Vue.js", "Solidity", "Hardhat", "The Graph"]
+    "technologies": []
   },
   {
     "name": "PrimGames",
     "description": "Simple math games",
     "url": "https://prim.games",
     "image": "images/primgames.png",
-    "technologies": ["Svelte", "Express", "MongoDB", "PWA"]
+    "technologies": []
   },
   {
     "name": "ElementCoin",
     "description": "Conceptual Idea for tracking concessions with cryptocurrency",
     "url": "https://elementcoin.xyz",
     "image": "images/elementcoin.png",
-    "technologies": ["React", "Solidity", "Ethers.js", "IPFS"]
+    "technologies": []
   }
 ] 
