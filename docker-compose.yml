@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  agfarms-portfolio:
+    image: farmera/agfarms-portfolio:latest
+    container_name: agfarms-portfolio
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    volumes:
+      - ./projects.json:/app/projects.json:ro
+    environment:
+      - PYTHONUNBUFFERED=1 
